@@ -1,0 +1,15 @@
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\bin\Debug\net6.0\GeoDistance.exe
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\bin\Debug\net6.0\GeoDistance.deps.json
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\bin\Debug\net6.0\GeoDistance.runtimeconfig.json
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\bin\Debug\net6.0\GeoDistance.dll
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\bin\Debug\net6.0\GeoDistance.pdb
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\obj\Debug\net6.0\GeoDistance.csproj.AssemblyReference.cache
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\obj\Debug\net6.0\GeoDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\obj\Debug\net6.0\GeoDistance.AssemblyInfoInputs.cache
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\obj\Debug\net6.0\GeoDistance.AssemblyInfo.cs
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\obj\Debug\net6.0\GeoDistance.csproj.CoreCompileInputs.cache
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\obj\Debug\net6.0\GeoDistance.dll
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\obj\Debug\net6.0\refint\GeoDistance.dll
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\obj\Debug\net6.0\GeoDistance.pdb
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\obj\Debug\net6.0\GeoDistance.genruntimeconfig.cache
+C:\Users\Maestro\source\repos\GeoDistance\GeoDistance\obj\Debug\net6.0\ref\GeoDistance.dll
